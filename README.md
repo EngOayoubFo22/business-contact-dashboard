@@ -1,2 +1,3 @@
 # Business Contact Dashboard
 This interactive web dashboard was developed for AAST Buisness Adminstration students council to present to the Egyptian Ministry of Youth in order to digitally manage and analyze business contacts across key industry sectors. The platform features real-time data visualization, company management tools, and bilingual support (Arabic/English), enabling ministry officials to efficiently track youth business initiatives and generate insights for policy development.
+https://business-contact-dashboard.streamlit.app/
