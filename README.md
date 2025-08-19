@@ -119,8 +119,6 @@ business-contact-dashboard/
 
 └── README.md               # Project documentation
 
-👥 Contributors
-AAST Development Team
 
 Project developed as part of academic collaboration with Egyptian Ministry of Youth
 Focused on practical solutions for public sector digital transformation
