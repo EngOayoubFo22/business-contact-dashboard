@@ -1,0 +1,7 @@
+streamlit==1.48.0
+pandas
+plotly
+wordcloud
+matplotlib
+python-docx
+openpyxl
