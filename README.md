@@ -121,6 +121,5 @@ business-contact-dashboard/
 
 
 Project developed as part of academic collaboration with Egyptian Ministry of Youth
-Focused on practical solutions for public sector digital transformation
-
+Focused on Data Analysis and Portryal for Pitching purposes
 
